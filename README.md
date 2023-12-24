@@ -1,6 +1,6 @@
 ### 嘿~我是高見龍 👋
 
-Git / Ruby / Ruby on Rails / JavaScript Developer & Instructor, 喜愛非主流的新玩具 :)
+Python / Django / Ruby / Ruby on Rails / JavaScript / Rust 開發者 & 講師, 愛玩、愛玩，喜愛非主流的新玩具 :)
 
 #### 著作
 
